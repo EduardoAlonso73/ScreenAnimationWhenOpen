@@ -1,0 +1,19 @@
+package com.example.openscreenanimation.utils.extension
+
+enum class TypeAnim {
+    ANIMATE_ZOOM,
+    ANIMATE_FADE,
+    ANIMATE_WINDMILL,
+    ANIMATE_SPIN,
+    ANIMATE_DIAGONAL,
+    ANIMATE_SPLIT,
+    ANIMATE_SHRINK,
+    ANIMATE_CARD,
+    ANIMATE_IN_AND_OUT,
+    ANIMATE_SWIPE_RIGHT,
+    ANIMATE_SWIPE_LEFT,
+    ANIMATE_SLIDE_LEFT,
+    ANIMATE_SLIDE_RIGHT,
+    ANIMATE_SLIDE_DOWN,
+    ANIMATE_SLIDE_UP
+}

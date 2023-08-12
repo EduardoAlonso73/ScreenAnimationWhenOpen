@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenScreenAnimation</string>
+    <string name="title_main">Animation when opening\n a screen.</string>
+</resources>

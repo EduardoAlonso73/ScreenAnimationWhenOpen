@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green_50">#45FFFFFF</color>
+
+    <!--Color Background Card-->
+
+    <color name="blue_500">#03A9F4</color>
+    <color name="purple_600">#9761B9</color>
+    <color name="orange_500">#FD4706</color>
+    <color name="green_600">#00AD8F</color>
+    <color name="orange_200">#F8A222</color>
+    <color name="pink_400">#F73B74</color>
+    <color name="gray_200">#868586</color>
+    <color name="green_700">#80AE18</color>
+    <color name="blue_700">#036FF4</color>
+    <color name="pink_500">#C55ABA</color>
+
+    <color name="green_500">#35A29F</color>
+    <color name="purple_200">#A78295</color>
+    <color name="gray_900">#526D82</color>
+    <color name="orange_400">#DF7857</color>
+    <color name="purple_900">#913175</color>
+    <color name="blue_800">#0081B4</color>
+</resources>

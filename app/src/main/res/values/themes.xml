@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OpenScreenAnimation" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+
+
+    </style>
+
+    <style name="Theme.OpenScreenAnimation" parent="Base.Theme.OpenScreenAnimation" />
+</resources>
